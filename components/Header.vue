@@ -8,7 +8,7 @@
         <div class="flex items-center space-x-6">
           <div class="flex items-center space-x-4">
             <img src="public/assets/location-pin-svgrepo-com.svg" alt="Location Pin" class="w-4 h-4">
-            <span>1985 Kerry Way, Whittier, CA, USA</span>
+            <span>1985 Kerry Way, Whittier, CA, USA!</span>
           </div>
           <div class="flex items-center space-x-4">
             <img src="public/assets/phone-call-svgrepo-com.svg" alt="Phone Icon" class="w-4 h-4">
