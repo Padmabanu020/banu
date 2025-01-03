@@ -12,7 +12,7 @@
           </p>
         </div>
         <div class="w-full lg:w-1/2 lg:px-8">
-          <img src="public/assets/dental.jpg" alt="Dental Image" class="w-full h-72 rounded-lg object-cover" />
+          <img src="/assets/dental.jpg" alt="Dental Image" class="w-full h-72 rounded-lg object-cover" />
           <p class="italic text-sm mt-2 text-right">Aenean ante nisi, gravida non mattis semper.</p>
         </div>
       </div>

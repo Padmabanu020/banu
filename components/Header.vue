@@ -7,11 +7,11 @@
       <div class="flex justify-between items-center px-6 py-2 text-sm border-b border-white/20 hidden md:flex">
         <div class="flex items-center space-x-6">
           <div class="flex items-center space-x-4">
-            <img src="public/assets/location-pin-svgrepo-com.svg" alt="Location Pin" class="w-4 h-4">
+            <img src="/assets/location-pin-svgrepo-com.svg" alt="Location Pin" class="w-4 h-4">
             <span>1985 Kerry Way, Whittier, CA, USA!</span>
           </div>
           <div class="flex items-center space-x-4">
-            <img src="public/assets/phone-call-svgrepo-com.svg" alt="Phone Icon" class="w-4 h-4">
+            <img src="/assets/phone-call-svgrepo-com.svg" alt="Phone Icon" class="w-4 h-4">
             <span>+1 562-789-1935</span>
           </div>
         </div>
