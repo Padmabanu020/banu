@@ -10,4 +10,10 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
+  runtimeConfig: {
+    public: {
+      mode: process.env.MODE,
+      apiBaseURL: process.env.API_BASE_URL,
+    },
+  },
 })

@@ -1,0 +1,20 @@
+{
+    "home": {
+      "Contacts": {
+        "endpoint": "ContactDetails",
+        "method": "GET"
+      },
+      "Content": {
+        "endpoint": "HeroSection",
+        "method": "GET"
+      },
+      "Navigation": {
+        "endpoint": "NavigationBar",
+        "method": "GET"
+      },
+      "Icons": {
+        "endpoint": "Icon",
+        "method": "GET"
+      }
+    }
+}
